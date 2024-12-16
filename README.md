@@ -2,9 +2,6 @@
 - 👀 I’m interested in Integrating science and Artificial Intelligence together
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on wste management
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 pritamSAHU552012/pritamSAHU552012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
